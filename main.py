@@ -39,7 +39,7 @@ def on_fetch():
 
 # GUI
 root = tk.Tk()
-root.title("Simple Stock Data Fetcher")
+root.title("Stock Data Fetcher")
 
 frame = ttk.Frame(root, padding="10")
 frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
