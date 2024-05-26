@@ -7,4 +7,4 @@ Clone the repository to your machine and run the command "python main.py" from t
 Then, simply enter the stock ticker to get live data on the stock. 
 
 ## 🚀 Future Work
-Provide visual graphics and trends.  
+Integrate functionality into future stock analysis apps. 
